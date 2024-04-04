@@ -1,0 +1,24 @@
+selected dirs
+c:\windows\diagnostics\system\Search\,D,time,size
+c:\windows\assembly\GAC_MSIL\Policy.12.0.Microsoft.Office.Interop.Access.Dao\,D,time,size
+c:\windows\INF\BITS\,D,time,size
+c:\windows\WinSxS\wow64_microsoft-windows-directml-debug_31bf3856ad364e35_10.0.22621.1_none_105630dc7ddb32e6\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\7eb5dd77ad9ed901ca03000010328805\wow64_networking-mpssvc-p..l-windows.resources_31bf3856ad364e35_10.0.22621.1_zh-cn_f03cbca11bedcee5\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\4e283cee0233da012a0500009839641c\x86_microsoft-windows-b..ager-pcat.resources_31bf3856ad364e35_10.0.22621.1635_fr-ca_3e2ef6d0e109d0bb\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\a1a9790e6b25d9017d030000a498888e\amd64_microsoft-windows-s..nt-sku-core-license_31bf3856ad364e35_10.0.22621.608_none_ffc8c42ccdf69c7c\r\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\264ecbd7cb01da010100000000129487\amd64_userexperience-core_31bf3856ad364e35_10.0.22621.2070_none_984454904632d0eb\f\Core\FileExplorerExtensions\Assets\images\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\8100915f02bad901010000005477b823\amd64_microsoft-windows-s..-netlogon.resources_31bf3856ad364e35_10.0.22621.1_zh-cn_f0dfbb0bf9b03421\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\203a0fd1077bd90121040000a48cc08b\amd64_userexperience-desktop_31bf3856ad364e35_10.0.22621.1105_none_0c5ba681e5c92f0e\CBS\webapps\inclusiveOobe\view\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\22c39373c5e6d90182040000ec172096\wow64_microsoft-windows-c..esources-mrmindexer_31bf3856ad364e35_10.0.22621.1928_none_52bc2dac7f74bc56\f\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\3e0f6065facfd90101000000144d5823\amd64_microsoft-windows-d..nagement-dmcfgutils_31bf3856ad364e35_10.0.22621.1344_none_12f25b9cf78e0e30\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\32625fb5570fd901800400005856243e\amd64_userexperience-core_31bf3856ad364e35_10.0.22621.1_none_19c2205abe80ed43\Core\FileExplorerExtensions\Assets\images\contrast-standard\theme-light\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\3e36d0527a17da01800400006011bc4d\amd64_microsoft-windows-m..servermonitorclient_31bf3856ad364e35_10.0.22621.2215_none_09cdb785ee0a7ea5\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\3e36d0527a17da01800400006011bc4d\amd64_microsoft-windows-directx-direct3d11on12_31bf3856ad364e35_10.0.22621.1778_none_dba332bec3222163\r\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\22c39373c5e6d90182040000ec172096\amd64_microsoft-windows-fat_31bf3856ad364e35_10.0.22621.1344_none_8ea75dc1d2efadf1\f\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\32625fb5570fd901800400005856243e\amd64_microsoft-windows-network-qos-wmi_31bf3856ad364e35_10.0.22621.1_none_3a3bb4ce8618407b\,D,time,size
+c:\windows\WinSxS\amd64_netfx-aspnet_webmintrust_cfg_dflt_b03f5f7f11d50a3a_10.0.22621.1_none_7b6bb85685e0aa8d\,D,time,size
+c:\windows\WinSxS\Temp\InFlight\4e283cee0233da012a0500009839641c\amd64_microsoft-windows-f..back-courtesyengine_31bf3856ad364e35_10.0.22621.2070_none_59e22b863fc22d81\f\,D,time,size
+c:\windows\WinSxS\amd64_microsoft-windows-p..-localspl.resources_31bf3856ad364e35_10.0.22621.2506_zh-cn_a6e854befd01799f\,D,time,size
+c:\windows\WinSxS\amd64_microsoft-windows-g..alization.resources_31bf3856ad364e35_10.0.22621.2506_zh-cn_32890a4b8eb51747\,D,time,size
+c:\windows\WinSxS\amd64_microsoft-windows-c..utermanagerlauncher_31bf3856ad364e35_10.0.22621.2506_none_6defd82b6ff1ad73\r\,D,time,size
+end of dirs
